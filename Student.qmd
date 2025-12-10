@@ -1,6 +1,0 @@
----
-title: "Student_readme"
-format: gfm
----
-
-# test
